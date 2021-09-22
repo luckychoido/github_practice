@@ -23,3 +23,7 @@
 - when there is an additonal commit on head branch
 - real branch needed
 - conflicts may happen but don't be worried
+
+## Tiny updates at the server
+- Using pull 
+- Conflicts may happen but don't be worried
