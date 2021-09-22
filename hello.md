@@ -33,3 +33,9 @@
 ## Resolve the conflict
 
 - IMPORTANT! NOT TO BE AFRAID OF IT
+
+### using reset
+
+- pros : easy to use
+- cons : commit is deleted
+  cons2: needs force push
