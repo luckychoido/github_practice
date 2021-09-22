@@ -18,3 +18,8 @@
 - when there is no changes in head branch
 - when the branch for the merge comes from the head branch
 - VERY EASY TO MERGE (=Fast-forward)
+
+## Merge 2
+- when there is an additonal commit on head branch
+- real branch needed
+- conflicts may happen but don't be worried
