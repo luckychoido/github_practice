@@ -41,6 +41,6 @@
   cons2: needs force push
 
   ### revert with branch
-
+  - can keep the commit
   - pros : easy
   - cons : looks messy
