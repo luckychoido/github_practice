@@ -39,3 +39,8 @@
 - pros : easy to use
 - cons : commit is deleted
   cons2: needs force push
+
+  ### revert with branch
+
+  - pros : easy
+  - cons : looks messy
