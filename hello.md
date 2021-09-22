@@ -40,7 +40,7 @@
 - cons : commit is deleted
   cons2: needs force push
 
-### revert with branch
+### go back with branch
 - pros 1 : can keep the commit
 - pros 2 : easy
 - cons : looks messy
