@@ -41,6 +41,13 @@
   cons2: needs force push
 
 ### go back with branch
+
 - pros 1 : can keep the commit
 - pros 2 : easy
 - cons : looks messy
+
+### revert
+
+- pros : can keep the commit
+- pros : basic
+- cons : conflict may happen
