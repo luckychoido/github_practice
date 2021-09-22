@@ -33,3 +33,8 @@
 ## Resolve the conflict
 
 - IMPORTANT! NOT TO BE AFRAID OF IT
+
+### Reset
+
+- easy but commit disapear
+- needs force push
