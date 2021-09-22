@@ -7,7 +7,14 @@
 - commit : save with files on the stage
 - push : upload commits on the remote storage
 
-## To bring back the file
+## To bring back to the file
 
 - using discard hunk
 - checkout: switch branches or restore working tree files (through checkout, you can easily go back to the latest commit)
+- checkout in sourcetree : double click on the branch name
+
+## Merge 1
+
+- when there is no changes in head branch
+- when the branch for the merge comes from the head branch
+- VERY EASY TO MERGE (=Fast-forward)
