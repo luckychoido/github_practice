@@ -10,3 +10,4 @@
 ## To bring back the file
 
 - using discard hunk
+- checkout: switch branches or restore working tree files (through checkout, you can easily go back to the latest commit)
